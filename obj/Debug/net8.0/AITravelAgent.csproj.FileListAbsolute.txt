@@ -1,0 +1,5 @@
+C:\Users\rmidkiff\source\repos\AITravelAgent\obj\Debug\net8.0\AITravelAgent.csproj.AssemblyReference.cache
+C:\Users\rmidkiff\source\repos\AITravelAgent\obj\Debug\net8.0\AITravelAgent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmidkiff\source\repos\AITravelAgent\obj\Debug\net8.0\AITravelAgent.AssemblyInfoInputs.cache
+C:\Users\rmidkiff\source\repos\AITravelAgent\obj\Debug\net8.0\AITravelAgent.AssemblyInfo.cs
+C:\Users\rmidkiff\source\repos\AITravelAgent\obj\Debug\net8.0\AITravelAgent.csproj.CoreCompileInputs.cache
